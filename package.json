@@ -16,6 +16,7 @@
     "@strapi/strapi": "4.3.8",
     "better-sqlite3": "7.4.6",
     "pg": "^8.8.0",
+    "pg-connection-string": "^2.5.0",
     "strapi-plugin-import-export-entries": "^1.17.3",
     "strapi-plugin-react-editorjs": "^2.0.2"
   },
